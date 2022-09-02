@@ -1,1 +1,1 @@
-console.log("Oi Planeta!")
+console.log("Oi Planeta! <3")
